@@ -1,0 +1,12 @@
+public class ArrayTest {
+ 
+  public static void main( String[] args ) {
+    
+    int[] c = new int[ 10 ];
+    for( int i = 1; i < c.length(); i++ ) {
+      
+    }
+    
+  } // END main()
+  
+} // END class ArrayTest

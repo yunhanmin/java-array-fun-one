@@ -1,0 +1,18 @@
+/*
+ * Project: Marbles.java
+ * Description: A String array containing the names of marble colors
+ * Name: Hanmin Yun
+ * Date: Oct 13, 2015
+ */
+
+public class Marbles {
+  
+  public static void main( String[] args ) {
+    
+    // 1. Create a String array to hold the names of marble colors
+    // 2. Assign "names" to the String array indecies
+    // 3. Print the String array names
+    
+  } // End main()
+  
+} // End class Marbles
