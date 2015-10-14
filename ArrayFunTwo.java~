@@ -1,0 +1,22 @@
+/*
+ * Project: ArrayFunTwo.java
+ * Description: Learning more about arrays.
+ * Name: Hanmin Yun
+ * Date: Oct 14, 2015
+ */
+
+public class ArrayFunTwo {
+  
+  public static void main( String[] args ) {
+    
+    int[] a = { 1, 3, 5, 7, 9, 11, 13, 15, 17, 19 };
+    int total = 0;
+    
+    for( int i : a ) {
+      total += i;
+      System.out.println( "Sum is: " + total );
+    }
+    
+  } // END main()
+  
+} // END class
