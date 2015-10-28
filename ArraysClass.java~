@@ -1,0 +1,23 @@
+/*
+ * Project: ArrayClass.java
+ * Description: Working with Arrays class
+ * Name: Hanmin Yun
+ * Date: Oct 28, 2015
+ */
+
+import java.util.Arrays;
+
+public class ArraysClass {
+  
+  public static void printArray( int[] a ) {
+    System.out.print( "Array: " );
+    for( int i=0; i<a.length; i++ ) {
+     System.out.print( a[i] + "," ); 
+    }
+  }
+  
+  public static void main( String [] args ) {
+    
+  } // End main
+  
+} // End class
